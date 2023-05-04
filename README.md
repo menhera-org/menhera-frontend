@@ -1,2 +1,2 @@
-# weeg-library-template
-WebExtensions Experts Group library template (for internal use)
+# menhera-frontend
+Experimental frontend library.
